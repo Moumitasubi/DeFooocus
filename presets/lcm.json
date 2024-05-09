@@ -1,5 +1,6 @@
 {
-    "default_model": "FluentlyXL-v3.safetensors",
+    //"default_model": "FluentlyXL-v3.safetensors",
+    "default_model": "Juggernaut-X-RunDiffusion-NSFW.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
