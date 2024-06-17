@@ -40,7 +40,7 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "Juggernaut-X-RunDiffusion-NSFW.safetensors":"https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors"
+        "Juggernaut-X-RunDiffusion-NSFW.safetensors":"huggingface.co/RunDiffusion/Juggernaut-XL-v9/blob/main/Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors"
         //"FluentlyXL-v3.safetensors": "https://huggingface.co/fluently/Fluently-XL-v3/resolve/main/FluentlyXL-v3.safetensors"
     },
     "embeddings_downloads": {},
